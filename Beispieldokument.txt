@@ -1,3 +1,2 @@
 Dies ist eine Beispielzeile.
 Dies ist die zweite Zeile
-Dies ist eine dritte Zeile
