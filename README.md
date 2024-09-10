@@ -1,3 +1,3 @@
 # Beispiel Repository
 
-Dies ist ein Beispiel Repository, dass verwendet wird um Git zu lernen.
+Dies ist ein Beispiel Repository, das verwendet wird um Git zu lernen.
